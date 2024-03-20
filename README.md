@@ -1,8 +1,8 @@
-##SaaSAI App
+# SaaSAI App
 
 This app was created using these YouTube clips from MapilitMedia Inc. titled How to Buid an AI SaaS using Laravel & OpenAI. There are 5 total videos for this project where this app consits of the first two and fourth video. Did make some slight modifications to be able to use the latest OpenAI API.
 
-##How to run
+## How to run
 
 Download the app or clone it. Once it is installed in your machine, in the root of the app
 
