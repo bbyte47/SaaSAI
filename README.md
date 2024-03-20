@@ -20,4 +20,4 @@ Download the app or clone it. Once it is installed in your machine, in the root 
 
 Have only used this locally. The 3rd clip shows how to create a paid version using Stripe and the 5th is how to publish using Forge.
 
-The Image Generator is set to use DALL-e-2. Have used it with DALL-e 3 and the only changes that are needed is change the model to dall-e-3 and the size to 1024x1024.
+The Image Generator is set to use DALL-e-3. Have used it with DALL-e 2 and the only changes that are needed is change the model to dall-e-2 and the size can stay at 1024x1024 or to either 254x254 or 512x512.
